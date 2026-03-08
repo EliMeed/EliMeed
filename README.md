@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Mo 
 ## About Me 
-I build things to solve problems. I learn by pulling systems apart to understand why they work and how they handle load
+I build things to solve problems. I enjoy pulling systems apart to understand why they work and how they handle load
 
 ##
 
