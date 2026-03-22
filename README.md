@@ -6,7 +6,7 @@ I build things to solve problems. I enjoy pulling systems apart to understand wh
 
 🏗️ Experience: Full-stack development with a focus on scalable architectures and system integrations.
 
-⚡**Open Source Contributions:** <a href="https://github.com/pydantic/pydantic-ai/pull/4142">
+⚡**Open Source Contributions:** <a href="https://github.com/pydantic/pydantic-ai/">
   <img src="https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="PydanticAI" height="40">
 </a>
 <a href="https://github.com/pytorch">
